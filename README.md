@@ -1,6 +1,6 @@
 # Module 3 Project - Deploy a high-availability web app using CloudFormation
 
-This project included code to: create and deploy the infrastructure and application for an Instagram-like app by constructing a diagram of the launch configuration infrastructure using [Lucid Chart], deploying the networking components, followed by the servers, security roles and software.
+This project included code to: create and deploy the infrastructure and application for an Instagram-like app by constructing a diagram of the launch configuration infrastructure using [Lucid Chart], and deploying the networking components followed by the servers, security roles and software.
 
 The project submission required submitting one zip file (added here as mod3project-blohmeier.zip) including:
 * yaml file for launch configuration resources including a load balancer, an autoscaling group, a health check, security groups, a listener and a target group
